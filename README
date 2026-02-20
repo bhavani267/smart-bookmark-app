@@ -1,0 +1,24 @@
+# Smart Bookmark CRUD Application
+
+## Live Demo
+https://smart-bookmark-app.onrender.com
+
+## GitHub Repository
+https://github.com/YOUR_USERNAME/smart-bookmark-app
+
+## Features
+- Add bookmark
+- View bookmarks
+- Update bookmark
+- Delete bookmark
+
+## Tech Stack
+- Node.js
+- Express
+- HTML, CSS, JS
+
+## Run Locally
+npm install -y
+npm install express
+npm install cors
+npm start
