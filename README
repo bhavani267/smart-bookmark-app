@@ -19,3 +19,8 @@ https://github.com/bhavani267/smart-bookmark-app
 - Database: In-memory / JSON
 - Deployment: Render
 
+## Run Locally
+- npm install -y
+- npm install express
+- npm install cors
+- npm start
