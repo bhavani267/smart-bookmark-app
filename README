@@ -1,4 +1,4 @@
-# Smart Bookmark CRUD Application
+# A full-stack CRUD application to manage bookmarks.
 
 ## Live Demo
 https://smart-bookmark-app-i7fd.onrender.com
@@ -7,18 +7,15 @@ https://smart-bookmark-app-i7fd.onrender.com
 https://github.com/bhavani267/smart-bookmark-app
 
 ## Features
-- Add bookmark
-- View bookmarks
-- Update bookmark
-- Delete bookmark
+- Add Bookmark (Title & URL)
+- View All Bookmarks
+- Update Bookmark
+- Delete Bookmark
+- Live Deployment on Render
 
 ## Tech Stack
-- Node.js
-- Express
-- HTML, CSS, JS
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Database: In-memory / JSON
+- Deployment: Render
 
-## Run Locally
-npm install -y
-npm install express
-npm install cors
-npm start
