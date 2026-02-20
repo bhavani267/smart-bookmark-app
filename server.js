@@ -53,7 +53,9 @@ app.delete("/api/bookmarks/:id", (req, res) => {
   bookmarks = bookmarks.filter(b => b.id !== id);
   res.json({ message: "Bookmark deleted" });
 });
-
+app.get("/", (req, res) => {
+  res.send("Smart Bookmark App is Live 🚀");
+});
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
